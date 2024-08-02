@@ -1,1 +1,1 @@
-# Pega-Receita
+# PegaReceita
