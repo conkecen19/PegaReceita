@@ -1,1 +1,1 @@
-PegaReceita
+Pega-Receita
